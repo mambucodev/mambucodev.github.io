@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Mambuco</title>
+      <link>https://mambucodev.github.io</link>
+      <description>Mambuco&#x27;s personal blog.</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://mambucodev.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Test Post</title>
+          <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+          <author>Mambuco</author>
+          <link>https://mambucodev.github.io/blog/test/</link>
+          <guid>https://mambucodev.github.io/blog/test/</guid>
+          <description xml:base="https://mambucodev.github.io/blog/test/">&lt;p&gt;Hello&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>

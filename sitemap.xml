@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://mambucodev.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://mambucodev.github.io/blog/</loc>
+    </url>
+    <url>
+        <loc>https://mambucodev.github.io/blog/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://mambucodev.github.io/blog/test/</loc>
+        <lastmod>2021-08-01</lastmod>
+    </url>
+    <url>
+        <loc>https://mambucodev.github.io/find/</loc>
+    </url>
+    <url>
+        <loc>https://mambucodev.github.io/projects/</loc>
+    </url>
+    <url>
+        <loc>https://mambucodev.github.io/tags/</loc>
+    </url>
+    <url>
+        <loc>https://mambucodev.github.io/tags/blog/</loc>
+    </url>
+    <url>
+        <loc>https://mambucodev.github.io/tags/test/</loc>
+    </url>
+</urlset>
